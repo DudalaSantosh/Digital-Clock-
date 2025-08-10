@@ -17,6 +17,8 @@ Xilinx Vivado
 5) Upload the Bitstream into the FPGA board.
 
 **Team:**
+
 **Authors:** Santosh Dudala & Cherish Nutalapati
+
 **Guide:** Dr.Srinivas Boppu
 
